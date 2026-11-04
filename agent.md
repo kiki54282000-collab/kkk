@@ -1,3 +1,6 @@
+# user name:kiki54282000-collab
+# email:kiki54282000@gmail.com
+
 # 專案名稱
 https://github.com/kiki54282000-collab/kkk
 
